@@ -1,6 +1,8 @@
 LSC-Mapping
 ===========
 
+<<<<<<< HEAD
+=======
 FILES: https://www.dropbox.com/sh/n75n32jmw11gfge/8VEY5ikG76
 
 Comparison of Drupal Mapping tools: https://drupal.org/node/1704948
@@ -19,6 +21,7 @@ out of a production site hosted by LSC.)
 
 Online Intake list: http://lsntap.org/content/online-intake-and-online-screen-systems-0
 
+>>>>>>> 041bebbcc205a96740d5b7b66115d0030670ece1
 The Legal Services Corporation has presented us with a compelling issue for legal hackers 
 with the potential to help many low-income individuals around the country. 
 
@@ -36,4 +39,15 @@ return the nearby locations in the assigned service area. In this hackathon, we 
 data that LSC has on file to create new and helpful ways for low-income individuals to search for their appropriate 
 LSC location.
 
+<<<<<<< HEAD
+## Setup
+
+Requires OSX or Linux.
+
+Install [GDAL](http://www.gdal.org/), [node.js](http://nodejs.org/).
+
+    npm install
+    make
+=======
 test test
+>>>>>>> 041bebbcc205a96740d5b7b66115d0030670ece1

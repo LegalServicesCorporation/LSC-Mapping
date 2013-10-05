@@ -1,0 +1,24 @@
+{
+  "name": "LSC-Mapping",
+  "version": "0.0.0",
+  "description": "LSC-Mapping ===========",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jposi/LSC-Mapping.git"
+  },
+  "author": "",
+  "license": "BSD-2-Clause",
+  "bugs": {
+    "url": "https://github.com/jposi/LSC-Mapping/issues"
+  },
+  "dependencies": {
+    "concat-stream": "~1.0.1",
+    "glob": "~3.2.6",
+    "okay-hash": "0.0.0",
+    "geojson-utils": "~1.0.1"
+  }
+}
