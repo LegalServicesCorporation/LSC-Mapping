@@ -5,19 +5,24 @@ var map = L.mapbox.map('map', 'tmcw.map-oitj0si5')
 var fl = L.geoJson().addTo(map);
 
 $.ajax({
-    url: 'index.json',
-    success: function(dat) {
-        $('#fm').on('submit', function(e) {
-            e.preventDefault();
-            e.stopPropagation();
-            $.ajax('http://api.tiles.mapbox.com/v3/tmcw.map-jcq5zhdm/geocode/' +
-              encodeURIComponent($('#address').val()) + '.json').done(function(res) {
-                  if (res.results && res.results[0] && res.results[0][0]) {
-                      var areas = findLocation(dat, res.results[0][0]);
-                      if (areas.length) loadResults(res.results[0][0], areas);
-                  }
-              });
-            return false;
+    url: 'master.json',
+    success: function(master) {
+        $.ajax({
+            url: 'index.json',
+            success: function(dat) {
+                $('#fm').on('submit', function(e) {
+                    e.preventDefault();
+                    e.stopPropagation();
+                    $.ajax('http://api.tiles.mapbox.com/v3/tmcw.map-jcq5zhdm/geocode/' +
+                      encodeURIComponent($('#address').val()) + '.json').done(function(res) {
+                          if (res.results && res.results[0] && res.results[0][0]) {
+                              var areas = findLocation(dat, res.results[0][0]);
+                              if (areas.length) loadResults(res.results[0][0], areas, master);
+                          }
+                      });
+                    return false;
+                });
+            }
         });
     }
 });
@@ -51,7 +56,7 @@ function loadResult(r, cb) {
 
 var q = queue(1);
 
-function loadResults(center, results) {
+function loadResults(center, results, list) {
 
     results.forEach(function(r) {
         q.defer(loadResult, r);
@@ -70,13 +75,27 @@ function loadResults(center, results) {
 
         fl.clearLayers();
         fl.addData(res);
+        fl.addData({ type: 'Point', coordinates: [center.lon, center.lat] });
         map.fitBounds(fl.getBounds());
 
         var $info = $('#info')
-            .html('');
+            .html(res.properties.Description);
+        var rno = $($('#info td')[1]).text().trim();
 
-        $('<div></div>')
-            .html(res.properties.Description)
-            .appendTo($info);
+        for (var i = 0; i < list.length; i++) {
+
+            if (list[i].Org_ID == rno) {
+                for (var k in list[i]) {
+                    $('<strong></strong>')
+                        .text(k + ': ')
+                        .appendTo($info);
+                    $('<span></span>')
+                        .text(list[i][k])
+                        .appendTo($info);
+                    $('<br />')
+                        .appendTo($info);
+                }
+            }
+        }
     });
 }
