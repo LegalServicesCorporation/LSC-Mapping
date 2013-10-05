@@ -7,6 +7,8 @@ Comparison of Drupal Mapping tools: https://drupal.org/node/1704948
 
 KML Data: lsntap.org/GIS_Data_GE_KML
 
+Congressional district KML data: http://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=3&cad=rja&ved=0CD0QFjAC&url=http%3A%2F%2Fwww.maps.ccgisc.org%2FKML%2FStateCongressionalDistricts.kmz&ei=pDBQUqf7Apaq4AOcrYHgBA&usg=AFQjCNHSqUnY4RPHLCOp9sUzBvnM7w2YAA&sig2=TX-xhthfYDTfA-dhvH1krA&bvm=bv.53537100,d.dmg
+
 Zipcode Data: http://lsntap.org/GIS_Data_GE_Geocode
 
 Sandbox: http://lscmapping.prelitigator.com/ (running out of a subdomain of Morris Singer's company, 
