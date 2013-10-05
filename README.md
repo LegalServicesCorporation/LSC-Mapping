@@ -9,6 +9,10 @@ KML Data: lsntap.org/GIS_Data_GE_KML
 
 Zipcode Data: http://lsntap.org/GIS_Data_GE_Geocode
 
+Sandbox: http://lscmapping.prelitigator.com/ (running out of a subdomain of Morris Singer's company, 
+for now, with the idea that a finished product will NOT be running out of the sandbox, but running 
+out of a production site hosted by LSC.)
+
 The Legal Services Corporation has presented us with a compelling issue for legal hackers 
 with the potential to help many low-income individuals around the country. 
 
