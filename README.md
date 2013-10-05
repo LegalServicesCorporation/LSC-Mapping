@@ -11,6 +11,8 @@ Congressional district KML data: http://www.google.com/url?sa=t&rct=j&q=&esrc=s&
 
 Zipcode Data: http://lsntap.org/GIS_Data_GE_Geocode
 
+Nationwide service areas KML: https://www.dropbox.com/s/nhege8q7la28v49/LSC-Mapping%20SW.kml
+
 Sandbox: http://lscmapping.prelitigator.com/ (running out of a subdomain of Morris Singer's company, 
 for now, with the idea that a finished product will NOT be running out of the sandbox, but running 
 out of a production site hosted by LSC.)
