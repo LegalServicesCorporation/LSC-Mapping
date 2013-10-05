@@ -15,6 +15,8 @@ Sandbox: http://lscmapping.prelitigator.com/ (running out of a subdomain of Morr
 for now, with the idea that a finished product will NOT be running out of the sandbox, but running 
 out of a production site hosted by LSC.)
 
+Online Intake list: http://lsntap.org/content/online-intake-and-online-screen-systems-0
+
 The Legal Services Corporation has presented us with a compelling issue for legal hackers 
 with the potential to help many low-income individuals around the country. 
 
