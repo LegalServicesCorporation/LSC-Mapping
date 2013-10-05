@@ -39,6 +39,14 @@ return the nearby locations in the assigned service area. In this hackathon, we 
 data that LSC has on file to create new and helpful ways for low-income individuals to search for their appropriate 
 LSC location.
 
+How to assemble a nationwide KML file from regional files: 
+Create a new Fusion Table here http://www.google.com/drive/apps.html#fusiontables
+Browse for regional file.
+Click "Next" twice.
+Name the file "lsc" and check the box for "allow export."
+If there are more regional files to import, select File > Import More Rows. Repeat as necessary.
+Select "Download." Choose "KML" as format.
+
 <<<<<<< HEAD
 ## Setup
 
