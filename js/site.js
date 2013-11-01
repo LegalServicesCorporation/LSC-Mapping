@@ -9,6 +9,7 @@ $.ajax({
     success: function(master) {
         $.ajax({
             url: 'index.json',
+			dataType: 'json',
             success: function(dat) {
                 $('#fm').on('submit', function(e) {
                     e.preventDefault();
