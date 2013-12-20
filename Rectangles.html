@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html>
+    <head>
+		<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js">
+		</script>
+		<script>
+			$(document).ready(
+				function(){
+					$("#btnGo").click(
+						function(){
+							var saname = document.forms[0].elements["txtSA"].value;
+							$.ajaxSetup({ cache: false });
+							$.getJSON("geojson/" + saname + ".geojson",
+								function(servarea){
+									var maxlat = 0;
+									var minlat = 90;
+									var maxlong = -180;
+									var minlong = 180;
+									var f = 0;
+									while (servarea.features[f]) {
+										//Some arrays of lat-long pairs are nested 3-deep; others are nested 4-deep.
+										if(servarea.features[f].geometry.coordinates[0][0][0][0]) {
+											//Iterate through each lat-long pair; reset max and min lat and long where appropriate
+											$.each(servarea.features[f].geometry.coordinates[0][0],
+												function(index, longlat) {
+													if (longlat[0] > maxlong) maxlong = longlat[0];
+													if (longlat[0] < minlong) minlong = longlat[0]
+													if (longlat[1] > maxlat) maxlat = longlat[1];
+													if (longlat[1] < minlat) minlat = longlat[1]
+												}
+											)
+										}
+										else {
+											$.each(servarea.features[f].geometry.coordinates[0],
+												function(index, longlat) {
+													if (longlat[0] > maxlong) maxlong = longlat[0];
+													if (longlat[0] < minlong) minlong = longlat[0]
+													if (longlat[1] > maxlat) maxlat = longlat[1];
+													if (longlat[1] < minlat) minlat = longlat[1]
+												}
+											)
+										}
+										f++;
+									}
+									//Once the max and min lat and long have been established, output the values in a string that can be used in the JSON file.
+									$("#content").text("[" + minlat.toString() + ", " + maxlat.toString() + ", " + 
+										minlong.toString() + ", " + maxlong.toString() + ", \"" + saname + "\"]");
+								}
+							);
+						}
+					)
+				}
+			);
+		</script>
+    </head>
+    <body>
+		<form>
+			<input type='text' name='txtSA'/>
+			<input type='button' name='btnGo' id='btnGo' value='Go'/>
+		</form>
+		<p/>
+		<div id='content'>page content</div>
+    </body>
+</html>

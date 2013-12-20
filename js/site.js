@@ -8,9 +8,9 @@ $.ajax({
     url: 'master.json',
     success: function(master) {
         $.ajax({
-            url: 'index.json',
-			dataType: 'json',
-            success: function(dat) {
+				url: 'Rectangles.json',
+				dataType: 'json',
+				success: function(dat) {
                 $('#fm').on('submit', function(e) {
                     e.preventDefault();
                     e.stopPropagation();
@@ -23,7 +23,10 @@ $.ajax({
                       });
                     return false;
                 });
-            }
+            },
+				error: function(jqxhr, status, error) {
+						alert("Status: " + status + ". Error: " + error);
+				}
         });
     }
 });
@@ -34,14 +37,15 @@ function findLocation(index, ll) {
 
     for (var i = 0; i < index.length; i++) {
 
-        if (ll.lon > index[i][0] &&
-            ll.lon < index[i][2] &&
 
-            ll.lat > index[i][1] &&
-            ll.lat < index[i][3]) {
+     if (ll.lat > index[i][0] &&
+            ll.lat < index[i][1] &&
 
+            ll.lon > index[i][2] &&
+            ll.lon < index[i][3]) {
+
+		  
             results.push(index[i]);
-
         }
 
     }
@@ -50,9 +54,12 @@ function findLocation(index, ll) {
 }
 
 function loadResult(r, cb) {
-    $.getJSON('areas/' + r[4] + '.geojson').done(function(d) {
+	$.ajaxSetup({ cache: false });
+	$.getJSON('geojson/' + r[4] + '.geojson').done(
+		function(d) {
         cb(null, d);
-    });
+		}
+	);
 }
 
 var q = queue(1);
@@ -65,11 +72,17 @@ function loadResults(center, results, list) {
 
     q.awaitAll(function(err, results) {
 
-        var res = results.filter(function(r) {
-            return gju.pointInPolygon({
-                type: 'Point',
-                coordinates: [center.lon, center.lat]
-            }, r.geometry);
+        var res = results.filter(
+				function(r) {
+					var inPolygon = false;
+					for (var i = 0; i < r.features.length; i++) {
+						inPolygon = inPolygon || gju.pointInPolygon(
+							 {type: 'Point',
+							 coordinates: [center.lon, center.lat]}
+							, r.features[i].geometry
+						);
+					}
+					return inPolygon;
         })[0];
 
         if (!res) return alert('No location found');
