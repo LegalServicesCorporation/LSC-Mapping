@@ -1,12 +1,9 @@
-LSC-Mapping
-===========
-
 This is a mapping tool that allows users to enter a geographic location and return data based on that geography. In particular, it allows you to enter geo.json files so that the data it returns is geographically sensitive.
 
 In this case, the LSC Map allows for end users to search for their locations and learn what organization provides free legal services for that location.
 
 
-LSC Specific Data:
+*LSC Specific Data:*
 
 Original (but dead) KML files: https://www.dropbox.com/sh/n75n32jmw11gfge/8VEY5ikG76
 
