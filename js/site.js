@@ -5,8 +5,8 @@ var map = L.mapbox.map('map', 'tmcw.map-oitj0si5')
 var fl = L.geoJson().addTo(map);
 
 $.ajax({
-    url: 'master.json',
-    success: function(master) {
+    url: 'Programs.json',
+    success: function(programs) {
         $.ajax({
 				url: 'Rectangles.json',
 				dataType: 'json',
@@ -14,11 +14,11 @@ $.ajax({
                 $('#fm').on('submit', function(e) {
                     e.preventDefault();
                     e.stopPropagation();
-                    $.ajax('http://api.tiles.mapbox.com/v3/tmcw.map-jcq5zhdm/geocode/' +
-                      encodeURIComponent($('#address').val()) + '.json').done(function(res) {
-                          if (res.results && res.results[0] && res.results[0][0]) {
-                              var areas = findLocation(dat, res.results[0][0]);
-                              if (areas.length) loadResults(res.results[0][0], areas, master);
+							$.ajax('http://www.mapquestapi.com/geocoding/v1/address?key=Fmjtd%7Cluur296an9%2Cb0%3Do5-90r514&location=' +
+							encodeURIComponent($('#address').val())).done(function(res) {
+									if (res.results && res.results[0] && res.results[0].locations && res.results[0].locations[0]) {
+                              var areas = findLocation(dat, res.results[0].locations[0]);
+                              if (areas.length) loadResults(res.results[0].locations[0], areas, programs);
                           }
                       });
                     return false;
@@ -28,7 +28,10 @@ $.ajax({
 						alert("Status: " + status + ". Error: " + error);
 				}
         });
-    }
+    },
+	 error: function(jqxhr, status, error) {
+			alert("Status: " + status + ". Error: " + error);
+	 }
 });
 
 function findLocation(index, ll) {
@@ -38,11 +41,11 @@ function findLocation(index, ll) {
     for (var i = 0; i < index.length; i++) {
 
 
-     if (ll.lat > index[i][0] &&
-            ll.lat < index[i][1] &&
+     if (ll.displayLatLng.lat > index[i][0] &&
+            ll.displayLatLng.lat < index[i][1] &&
 
-            ll.lon > index[i][2] &&
-            ll.lon < index[i][3]) {
+            ll.displayLatLng.lng > index[i][2] &&
+            ll.displayLatLng.lng < index[i][3]) {
 
 		  
             results.push(index[i]);
@@ -64,7 +67,7 @@ function loadResult(r, cb) {
 
 var q = queue(1);
 
-function loadResults(center, results, list) {
+function loadResults(center, results, programs) {
 
     results.forEach(function(r) {
         q.defer(loadResult, r);
@@ -78,7 +81,7 @@ function loadResults(center, results, list) {
 					for (var i = 0; i < r.features.length; i++) {
 						inPolygon = inPolygon || gju.pointInPolygon(
 							 {type: 'Point',
-							 coordinates: [center.lon, center.lat]}
+							 coordinates: [center.displayLatLng.lng, center.displayLatLng.lat]}
 							, r.features[i].geometry
 						);
 					}
@@ -89,17 +92,18 @@ function loadResults(center, results, list) {
 
         fl.clearLayers();
         fl.addData(res);
-        fl.addData({ type: 'Point', coordinates: [center.lon, center.lat] });
+        fl.addData({ type: 'Point', coordinates: [center.displayLatLng.lng, center.displayLatLng.lat] });
         map.fitBounds(fl.getBounds());
 
-        var $info = $('#info')
-            .html(res.properties.Description);
-        var rno = $($('#info td')[1]).text().trim();
+			var sa = res.features[0].properties["SA"]
+        var $info = $('#info').html("");
+            //.html(res.properties.Description);
+        //var rno = $($('#info td')[1]).text().trim();
 
-        for (var i = 0; i < list.length; i++) {
+        for (var i = 0; i < programs.length; i++) {
 
-            if (list[i].Org_ID == rno) {
-                for (var k in list[i]) {
+            if (programs[i].Serv_Area_ID == sa) {
+/*                for (var k in list[i]) {
                     $('<strong></strong>')
                         .text(k + ': ')
                         .appendTo($info);
@@ -108,7 +112,16 @@ function loadResults(center, results, list) {
                         .appendTo($info);
                     $('<br />')
                         .appendTo($info);
-                }
+                }*/
+					 var $tr = $('<tr></tr>').appendTo($info)
+					 $('<td><strong>Program Name: </strong></td>').appendTo($tr);
+					 $('<td>' + programs[i]["R_Legalname"] + '</td>').appendTo($tr);
+					 var $tr = $('<tr></tr>').appendTo($info)
+					 $('<td><strong>Web Site: </strong></td>').appendTo($tr);
+					 $('<td><a href="' +  programs[i]["Web_URL"] + '" target="_blank">' + programs[i]["Web_URL"] + '</a></td>').appendTo($tr);
+					 var $tr = $('<tr></tr>').appendTo($info)
+					 $('<td><strong>Phone: </strong></td>').appendTo($tr);
+					 $('<td>' + programs[i]["Local_800"] + '</td>').appendTo($tr);
             }
         }
     });
