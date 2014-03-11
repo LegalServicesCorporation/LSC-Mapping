@@ -1,136 +1,136 @@
 [
-{"R_Legalname":"Statewide Legal Services of Connecticut, Inc.", "Web_URL":"http://www.slsct.org/Home/PublicWeb", "Local_800":"(800) 453-3320", "Serv_Area_ID":"CT-1"}
-,{"R_Legalname":"Pine Tree Legal Assistance, Inc.", "Web_URL":"http://www.ptla.org/index.html", "Local_800":"(207) 774-8211", "Serv_Area_ID":"ME-1"}
-,{"R_Legalname":"Volunteer Lawyers Project of the Boston Bar Association", "Web_URL":"http://www.vlpnet.org/", "Local_800":"(617) 423-0648", "Serv_Area_ID":"MA-11"}
-,{"R_Legalname":"South Coastal Counties Legal Services", "Web_URL":"http://www.ncla.net/", "Local_800":"(800) 244-9023", "Serv_Area_ID":"MA-12"}
-,{"R_Legalname":"Merrimack Valley Legal Services, Inc.", "Web_URL":"http://www.mvlegal.org/", "Local_800":"(978) 458-1465", "Serv_Area_ID":"MA-4"}
-,{"R_Legalname":"Community Legal Aid, Inc.", "Web_URL":"http://www.communitylegal.org", "Local_800":"800-649-3718", "Serv_Area_ID":"MA-10"}
-,{"R_Legalname":"Legal Advice & Referral Center, Inc.", "Web_URL":"http://www.nhlegalaid.org/LARC", "Local_800":"(800) 639-5290", "Serv_Area_ID":"NH-1"}
-,{"R_Legalname":"Rhode Island Legal Services, Inc.", "Web_URL":"http://www.rils.org/", "Local_800":"(800) 662-5034", "Serv_Area_ID":"RI-1"}
-,{"R_Legalname":"Legal Services Law Line of Vermont, Inc.", "Web_URL":"http://www.vtlegalaid.org/", "Local_800":"(800) 639-8857", "Serv_Area_ID":"VT-1"}
-,{"R_Legalname":"Legal Aid Society of Northeastern New York, Inc.", "Web_URL":"http://www.lasnny.org/", "Local_800":"(800) 462-2922", "Serv_Area_ID":"NY-21"}
-,{"R_Legalname":"Neighborhood Legal Services, Inc.", "Web_URL":"http://www.nls.org/", "Local_800":"(716) 847-0650", "Serv_Area_ID":"NY-24"}
-,{"R_Legalname":"Nassau/Suffolk Law Services Committee, Inc.", "Web_URL":"http://www.nslawservices.org/", "Local_800":"(516) 292-8100", "Serv_Area_ID":"NY-7"}
-,{"R_Legalname":"Legal Services NYC", "Web_URL":"http://www.legalservicesnyc.org", "Local_800":"", "Serv_Area_ID":"NY-9"}
-,{"R_Legalname":"Legal Assistance of Western New York, Inc.", "Web_URL":"http://www.lawny.org", "Local_800":"(585) 325-2520", "Serv_Area_ID":"NY-23"}
-,{"R_Legalname":"Legal Aid Society of Mid-New York, Inc.", "Web_URL":"http://www.lasmny.org/", "Local_800":"(877) 777-6152", "Serv_Area_ID":"NY-22"}
-,{"R_Legalname":"Legal Services of the Hudson Valley", "Web_URL":"http://www.lshv.org/", "Local_800":"(914) 949-1305", "Serv_Area_ID":"NY-20"}
-,{"R_Legalname":"Puerto Rico Legal Services, Inc.", "Web_URL":"http://www.slpr.org", "Local_800":"(800) 981-5342", "Serv_Area_ID":"PR-1"}
-,{"R_Legalname":"Community Law Office, Inc.", "Web_URL":"http://oficinalegaldelacomunidad.org/", "Local_800":"(787) 751-1600", "Serv_Area_ID":"PR-2"}
-,{"R_Legalname":"Legal Services of the Virgin Islands, Inc.", "Web_URL":"http://www.legalservicesvi.org", "Local_800":"(340) 718-2626", "Serv_Area_ID":"VI-1"}
-,{"R_Legalname":"Legal Services Corporation of Delaware, Inc.", "Web_URL":"http://www.lscd.com", "Local_800":"(302) 575-0408", "Serv_Area_ID":"DE-1"}
-,{"R_Legalname":"Neighborhood Legal Services Program of the District of Columbia", "Web_URL":"http://www.nlsp.org/", "Local_800":"(202) 269-5100", "Serv_Area_ID":"DC-1"}
-,{"R_Legalname":"Legal Aid Bureau, Inc.", "Web_URL":"http://www.mdlab.org/", "Local_800":"(410) 539-5340", "Serv_Area_ID":"MD-1"}
-,{"R_Legalname":"Legal Services of Northwest Jersey", "Web_URL":"http://www.lsnj.org/lsnwj/index.htm", "Local_800":"(908) 475-2010", "Serv_Area_ID":"NJ-15"}
-,{"R_Legalname":"South Jersey Legal Services, Inc.", "Web_URL":"http://www.lsnj.org/sjls", "Local_800":"(856) 964-2010", "Serv_Area_ID":"NJ-16"}
-,{"R_Legalname":"Northeast New Jersey Legal Services Corporation", "Web_URL":"http://www.lsnj.org/directory.htm", "Local_800":"(201) 792-6363", "Serv_Area_ID":"NJ-18"}
-,{"R_Legalname":"Essex-Newark Legal Services Project, Inc.", "Web_URL":"http://www.lsnj.org/directory.htm", "Local_800":"(973) 624-4500", "Serv_Area_ID":"NJ-8"}
-,{"R_Legalname":"Ocean-Monmouth Legal Services, Inc.", "Web_URL":"http://www.lsnj.org/omls/index.htm", "Local_800":"(732) 341-2727", "Serv_Area_ID":"NJ-12"}
-,{"R_Legalname":"Central Jersey Legal Services, Inc.", "Web_URL":"http://www.lsnj.org/cjls/index.htm", "Local_800":"(732) 249-7600", "Serv_Area_ID":"NJ-17"}
-,{"R_Legalname":"Philadelphia Legal Assistance Center", "Web_URL":"http://www.philalegal.org/", "Local_800":"(215) 981-3800", "Serv_Area_ID":"PA-1"}
-,{"R_Legalname":"Laurel Legal Services, Inc.", "Web_URL":"http://www.palegalservices.org/finder/laurel_legal_services.htm", "Local_800":"(800) 253-9558", "Serv_Area_ID":"PA-5"}
-,{"R_Legalname":"MidPenn Legal Services, Inc.", "Web_URL":"http://midpenn.org/", "Local_800":"(717) 232-0581", "Serv_Area_ID":"PA-25"}
-,{"R_Legalname":"Neighborhood Legal Services Association", "Web_URL":"http://www.nlsa.us/", "Local_800":"(866) 761-6572", "Serv_Area_ID":"PA-8"}
-,{"R_Legalname":"North Penn Legal Services, Inc.", "Web_URL":"http://www.northpennlegal.org/", "Local_800":"(800) 982-4387", "Serv_Area_ID":"PA-24"}
-,{"R_Legalname":"Southwestern Pennsylvania Legal Services, Inc.", "Web_URL":"http://www.palegalservices.org/finder/southwestern_pa_legal_aid.htm", "Local_800":"(800) 846-0871", "Serv_Area_ID":"PA-11"}
-,{"R_Legalname":"Northwestern Legal Services", "Web_URL":"http://www.nwls.org/", "Local_800":"(800) 665-6957", "Serv_Area_ID":"PA-26"}
-,{"R_Legalname":"Legal Aid of Southeastern Pennsylvania", "Web_URL":"http://www.lasp.org", "Local_800":"(610) 275-5400", "Serv_Area_ID":"PA-23"}
-,{"R_Legalname":"Legal Services of South Central Michigan", "Web_URL":"http://www.lsscm.org/", "Local_800":"(734) 665-6181", "Serv_Area_ID":"MI-12"}
-,{"R_Legalname":"Legal Services of Eastern Michigan", "Web_URL":"http://www.lsem-mi.org/", "Local_800":"(800) 339-9513", "Serv_Area_ID":"MI-14"}
-,{"R_Legalname":"Legal Services of Northern Michigan, Inc.", "Web_URL":"http://www.lsnm.org/", "Local_800":"(888) 645-9993", "Serv_Area_ID":"MI-9"}
-,{"R_Legalname":"Legal Aid of Western Michigan", "Web_URL":"http://www.michiganlegalaid.org/", "Local_800":"(800) 442-2777", "Serv_Area_ID":"MI-15"}
-,{"R_Legalname":"Legal Aid and Defender Association, Inc.", "Web_URL":"http://www.ladadetroit.org/", "Local_800":"(877) 964-4700", "Serv_Area_ID":"MI-13"}
-,{"R_Legalname":"Community Legal Aid Services, Inc.", "Web_URL":"http://www.communitylegalaid.org/", "Local_800":"(866) 584-2350", "Serv_Area_ID":"OH-20"}
-,{"R_Legalname":"Legal Aid Society of Greater Cincinnati", "Web_URL":"http://www.lascinti.org/", "Local_800":"(800) 582-2682", "Serv_Area_ID":"OH-18"}
-,{"R_Legalname":"The Legal Aid Society of Cleveland", "Web_URL":"http://www.lasclev.org/", "Local_800":"", "Serv_Area_ID":"OH-21"}
-,{"R_Legalname":"Ohio State Legal Services", "Web_URL":"http://www.ohiolegalservices.org/OSLSA/PublicWeb", "Local_800":"(800) 589-5888", "Serv_Area_ID":"OH-17"}
-,{"R_Legalname":"Ohio State Legal Services", "Web_URL":"http://www.ohiolegalservices.org/OSLSA/PublicWeb", "Local_800":"(800) 589-5888", "Serv_Area_ID":"OH-5"}
-,{"R_Legalname":"Legal Aid of Western Ohio, Inc.", "Web_URL":"http://www.lawolaw.org", "Local_800":"(877) 894-4599", "Serv_Area_ID":"OH-23"}
-,{"R_Legalname":"Legal Services of Northern Virginia, Inc.", "Web_URL":"http://www.lsnv.org", "Local_800":"(866) 534-5243", "Serv_Area_ID":"VA-20"}
-,{"R_Legalname":"Southwest Virginia Legal Aid Society, Inc.", "Web_URL":"http://www.svlas.org/", "Local_800":"(888) 201-2772", "Serv_Area_ID":"VA-15"}
-,{"R_Legalname":"Legal Aid Society of Eastern Virginia", "Web_URL":"http://www.laseva.org/", "Local_800":"(888) 868-1072", "Serv_Area_ID":"VA-16"}
-,{"R_Legalname":"Central Virginia Legal Aid Society, Inc.", "Web_URL":"http://www.cvlas.org/", "Local_800":"(800) 868-1012", "Serv_Area_ID":"VA-18"}
-,{"R_Legalname":"Virginia Legal Aid Society, Inc.", "Web_URL":"http://www.vlas.org/", "Local_800":"(866) 534-5243", "Serv_Area_ID":"VA-17"}
-,{"R_Legalname":"Blue Ridge Legal Services, Inc.", "Web_URL":"http://www.brls.org/", "Local_800":"(800) 237-0141", "Serv_Area_ID":"VA-19"}
-,{"R_Legalname":"Legal Aid of West Virginia, Inc.", "Web_URL":"http://www.lawv.net", "Local_800":"(800) 642-8279", "Serv_Area_ID":"WV-5"}
-,{"R_Legalname":"LAF (Legal Assistance Foundation of Metropolitan Chicago)", "Web_URL":"http://www.lafchicago.org/", "Local_800":"(312) 341-1070", "Serv_Area_ID":"IL-6"}
-,{"R_Legalname":"Land of Lincoln Legal Assistance Foundation, Inc.", "Web_URL":"http://www.lollaf.org/", "Local_800":"(877) 342-7891", "Serv_Area_ID":"IL-3"}
-,{"R_Legalname":"Prairie State Legal Services, Inc.", "Web_URL":"http://www.pslegal.org/", "Local_800":"(815) 965-2134", "Serv_Area_ID":"IL-7"}
-,{"R_Legalname":"Indiana Legal Services, Inc.", "Web_URL":"http://www.indianalegalservices.org/", "Local_800":"(800) 869-0212", "Serv_Area_ID":"IN-5"}
-,{"R_Legalname":"Iowa Legal Aid", "Web_URL":"http://www.iowalegalaid.org/ia/homepage.html", "Local_800":"(800) 532-1275", "Serv_Area_ID":"IA-3"}
-,{"R_Legalname":"Kansas Legal Services, Inc.", "Web_URL":"http://www.kansaslegalservices.org/", "Local_800":"(800) 723-6953", "Serv_Area_ID":"KS-1"}
-,{"R_Legalname":"Legal Aid Service of Northeastern Minnesota", "Web_URL":"http://www.lasnem.org/", "Local_800":"(855) 204-1697", "Serv_Area_ID":"MN-1"}
-,{"R_Legalname":"Central Minnesota Legal Services, Inc.", "Web_URL":"http://www.centralmnlegal.org", "Local_800":"(612) 334-5970", "Serv_Area_ID":"MN-6"}
-,{"R_Legalname":"Legal Services of Northwest Minnesota Corporation", "Web_URL":"http://www.lsnmlaw.org/", "Local_800":"(800) 450-8585", "Serv_Area_ID":"MN-4"}
-,{"R_Legalname":"Southern Minnesota Regional Legal Services, Inc.", "Web_URL":"http://www.smrls.org/", "Local_800":"(651) 228-9823", "Serv_Area_ID":"MN-5"}
-,{"R_Legalname":"Legal Aid of Western Missouri", "Web_URL":"http://www.lawmo.org/", "Local_800":"(816) 474-6750", "Serv_Area_ID":"MO-3"}
-,{"R_Legalname":"Legal Services of Eastern Missouri, Inc.", "Web_URL":"http://www.lsem.org/", "Local_800":"(800) 444-0514", "Serv_Area_ID":"MO-4"}
-,{"R_Legalname":"Mid-Missouri Legal Services Corporation", "Web_URL":"http://www.lsmo.org/Data/LegalServices/LegalService_129", "Local_800":"(800) 568-4931", "Serv_Area_ID":"MO-5"}
-,{"R_Legalname":"Legal Services of Southern Missouri", "Web_URL":"http://www.lsosm.org", "Local_800":"(800) 444-4863", "Serv_Area_ID":"MO-7"}
-,{"R_Legalname":"Legal Aid of Nebraska", "Web_URL":"http://www.legalaidofnebraska.com", "Local_800":"(877) 250-2016", "Serv_Area_ID":"NE-4"}
-,{"R_Legalname":"Legal Services of North Dakota", "Web_URL":"http://www.legalassist.org/", "Local_800":"(800) 634-5263", "Serv_Area_ID":"ND-3"}
-,{"R_Legalname":"East River Legal Services", "Web_URL":"http://www.erls.org", "Local_800":"(800) 952-3015", "Serv_Area_ID":"SD-2"}
-,{"R_Legalname":"Legal Action of Wisconsin, Inc.", "Web_URL":"http://www.legalaction.org", "Local_800":"(414) 278-7722", "Serv_Area_ID":"WI-5"}
-,{"R_Legalname":"Wisconsin Judicare, Inc.", "Web_URL":"http://www.judicare.org/", "Local_800":"(800) 472-1638", "Serv_Area_ID":"WI-2"}
-,{"R_Legalname":"Legal Services Alabama, Inc.", "Web_URL":"http://www.legalservicesalabama.org/", "Local_800":"(866) 456-4995", "Serv_Area_ID":"AL-4"}
-,{"R_Legalname":"Legal Aid of Arkansas, Inc.", "Web_URL":"http://www.arlegalservices.org/", "Local_800":"(800) 952-9243", "Serv_Area_ID":"AR-6"}
-,{"R_Legalname":"Center for Arkansas Legal Services", "Web_URL":"http://www.arlegalservices.org/", "Local_800":"(800) 950-5817", "Serv_Area_ID":"AR-7"}
-,{"R_Legalname":"Community Legal Services of Mid-Florida, Inc.", "Web_URL":"http://www.clsmf.org/", "Local_800":"(386) 255-6573", "Serv_Area_ID":"FL-15"}
-,{"R_Legalname":"Florida Rural Legal Services, Inc.", "Web_URL":"http://www.frls.org/", "Local_800":"(800) 277-7680", "Serv_Area_ID":"FL-17"}
-,{"R_Legalname":"Legal Services of Greater Miami, Inc.", "Web_URL":"http://www.lsgmi.org/", "Local_800":"(305) 576-0080", "Serv_Area_ID":"FL-5"}
-,{"R_Legalname":"Legal Services of North Florida, Inc.", "Web_URL":"http://www.lsnf.org/", "Local_800":"(850) 701-3308", "Serv_Area_ID":"FL-13"}
-,{"R_Legalname":"Bay Area Legal Services, Inc.", "Web_URL":"http://www.bals.org/", "Local_800":"(813) 232-1343", "Serv_Area_ID":"FL-16"}
-,{"R_Legalname":"Three Rivers Legal Services, Inc.", "Web_URL":"http://www.trls.org/", "Local_800":"(352) 372-0519", "Serv_Area_ID":"FL-14"}
-,{"R_Legalname":"Coast to Coast Legal Aid of South Florida,  Inc.", "Web_URL":"http://www.coasttocoastlegalaid.org", "Local_800":"", "Serv_Area_ID":"FL-18"}
-,{"R_Legalname":"Atlanta Legal Aid Society, Inc.", "Web_URL":"http://www.atlantalegalaid.org/", "Local_800":"(404) 524-5811", "Serv_Area_ID":"GA-1"}
-,{"R_Legalname":"Georgia Legal Services Program", "Web_URL":"http://www.glsp.org/", "Local_800":"(800) 498-9469", "Serv_Area_ID":"GA-2"}
-,{"R_Legalname":"Legal Aid of the Bluegrass", "Web_URL":"http://www.lablaw.org", "Local_800":"(800) 888-8189", "Serv_Area_ID":"KY-10"}
-,{"R_Legalname":"Legal Aid Society", "Web_URL":"http://www.laslou.org/", "Local_800":"(800) 292-1862", "Serv_Area_ID":"KY-2"}
-,{"R_Legalname":"Appalachian Research and Defense Fund of Kentucky", "Web_URL":"http://www.ardfky.org/", "Local_800":"(800) 556-3876", "Serv_Area_ID":"KY-5"}
-,{"R_Legalname":"Kentucky Legal Aid", "Web_URL":"http://www.klaid.org/", "Local_800":"(866) 452-9243", "Serv_Area_ID":"KY-9"}
-,{"R_Legalname":"Acadiana Legal Service Corporation", "Web_URL":"http://www.la-law.org/", "Local_800":"(800) 256-1175", "Serv_Area_ID":"LA-10"}
-,{"R_Legalname":"Legal Services of North Louisiana, Inc.", "Web_URL":"http://www.lsnl.org/", "Local_800":"(800) 826-9265", "Serv_Area_ID":"LA-11"}
-,{"R_Legalname":"Southeast Louisiana Legal Services Corporation", "Web_URL":"http://www.slls.org", "Local_800":"(800) 349-0886", "Serv_Area_ID":"LA-1"}
-,{"R_Legalname":"Southeast Louisiana Legal Services Corporation", "Web_URL":"http://www.slls.org", "Local_800":"(800) 349-0886", "Serv_Area_ID":"LA-12"}
-,{"R_Legalname":"North Mississippi Rural Legal Services, Inc.", "Web_URL":"http://www.nmrls.com/", "Local_800":"(800) 898-8731", "Serv_Area_ID":"MS-9"}
-,{"R_Legalname":"Mississippi Center for Legal Services", "Web_URL":"http://www.mslegalservices.org/MS/index.cfm", "Local_800":"(601) 545-2950", "Serv_Area_ID":"MS-10"}
-,{"R_Legalname":"Legal Aid of North Carolina, Inc.", "Web_URL":"http://www.legalaidnc.org/", "Local_800":"(866) 219-5262", "Serv_Area_ID":"NC-5"}
-,{"R_Legalname":"South Carolina  Legal Services, Inc.", "Web_URL":"http://www.sclegal.org/", "Local_800":"(888) 346-5592", "Serv_Area_ID":"SC-8"}
-,{"R_Legalname":"Legal Aid of East Tennessee", "Web_URL":"http://www.laet.org/", "Local_800":"(865) 637-0484", "Serv_Area_ID":"TN-9"}
-,{"R_Legalname":"Memphis Area Legal Services, Inc.", "Web_URL":"http://www.malsi.org/", "Local_800":"(901) 523-8822", "Serv_Area_ID":"TN-4"}
-,{"R_Legalname":"Legal Aid Society of Middle Tennessee and the Cumberlands", "Web_URL":"http://www.las.org/", "Local_800":"", "Serv_Area_ID":"TN-10"}
-,{"R_Legalname":"West Tennessee Legal Services, Inc.", "Web_URL":"http://www.wtls.org/", "Local_800":"(800) 372-8346", "Serv_Area_ID":"TN-7"}
-,{"R_Legalname":"Community Legal Services, Inc.", "Web_URL":"http://www.clsaz.org", "Local_800":"(800) 852-9075", "Serv_Area_ID":"AZ-3"}
-,{"R_Legalname":"Southern Arizona Legal Aid, Inc.", "Web_URL":"http://www.sazlegalaid.org/", "Local_800":"(520) 623-9461", "Serv_Area_ID":"AZ-5"}
-,{"R_Legalname":"DNA-Peoples Legal Services, Inc.", "Web_URL":"http://www.dnalegalservices.org", "Local_800":"(800) 789-7287", "Serv_Area_ID":"AZ-2"}
-,{"R_Legalname":"DNA-Peoples Legal Services, Inc.", "Web_URL":"http://www.dnalegalservices.org", "Local_800":"(800) 789-7287", "Serv_Area_ID":"NM-1"}
-,{"R_Legalname":"California Indian Legal Services, Inc.", "Web_URL":"http://www.calindian.org/", "Local_800":"(800) 743-8941", "Serv_Area_ID":"CA-1"}
-,{"R_Legalname":"Colorado Legal Services", "Web_URL":"http://www.coloradolegalservices.org/co/homepage.html", "Local_800":"(303) 837-1321", "Serv_Area_ID":"CO-6"}
-,{"R_Legalname":"New Mexico Legal Aid", "Web_URL":"http://www.nmlegalaid.org/", "Local_800":"(505) 243-7871", "Serv_Area_ID":"NM-5"}
-,{"R_Legalname":"Legal Aid Services of Oklahoma, Inc.", "Web_URL":"http://www.legalaidok.org/", "Local_800":"(800) 421-1641", "Serv_Area_ID":"OK-3"}
-,{"R_Legalname":"Dakota Plains Legal Services, Inc.", "Web_URL":"http://www.helpsouthdakota.com/homeDPLS", "Local_800":"(800) 658-2297", "Serv_Area_ID":"SD-4"}
-,{"R_Legalname":"Legal Aid of NorthWest Texas", "Web_URL":"http://www.lanwt.org/", "Local_800":"(800) 955-3959", "Serv_Area_ID":"TX-14"}
-,{"R_Legalname":"Lone Star Legal Aid", "Web_URL":"http://www.lonestarlegal.org/", "Local_800":"(800) 354-1889", "Serv_Area_ID":"TX-13"}
-,{"R_Legalname":"Texas RioGrande Legal Aid, Inc.", "Web_URL":"http://www.trla.org/", "Local_800":"(888) 988-9996", "Serv_Area_ID":"TX-15"}
-,{"R_Legalname":"Utah Legal Services, Inc.", "Web_URL":"http://www.utahlegalservices.org", "Local_800":"(800) 662-4245", "Serv_Area_ID":"UT-1"}
-,{"R_Legalname":"Greater Bakersfield Legal Assistance, Inc.", "Web_URL":"http://gbla.org/ez.php?Page=3226", "Local_800":"(805) 325-5943", "Serv_Area_ID":"CA-2"}
-,{"R_Legalname":"Central California Legal Services", "Web_URL":"http://www.centralcallegal.org/", "Local_800":"(800) 675-8001", "Serv_Area_ID":"CA-26"}
-,{"R_Legalname":"Legal Aid Foundation of Los Angeles", "Web_URL":"http://www.lafla.org/", "Local_800":"(800) 399-4529", "Serv_Area_ID":"CA-29"}
-,{"R_Legalname":"Neighborhood Legal Services of Los Angeles County", "Web_URL":"http://www.nls-la.org/", "Local_800":"(818) 896-5211", "Serv_Area_ID":"CA-30"}
-,{"R_Legalname":"Inland Counties Legal Services, Inc.", "Web_URL":"http://www.inlandlegal.org/", "Local_800":"(888) 245-4257", "Serv_Area_ID":"CA-12"}
-,{"R_Legalname":"Legal Services of Northern California, Inc.", "Web_URL":"http://www.lsnc.net/", "Local_800":"(916) 551-2150", "Serv_Area_ID":"CA-27"}
-,{"R_Legalname":"Legal Aid Society of San Diego, Inc.", "Web_URL":"http://www.lassd.org/", "Local_800":"(877) 534-2524", "Serv_Area_ID":"CA-14"}
-,{"R_Legalname":"California Rural Legal Assistance, Inc.", "Web_URL":"http://www.crla.org/", "Local_800":"(415) 777-2752", "Serv_Area_ID":"CA-31"}
-,{"R_Legalname":"Bay Area Legal Aid", "Web_URL":"http://www.baylegal.org/", "Local_800":"(510) 663-4744", "Serv_Area_ID":"CA-28"}
-,{"R_Legalname":"Legal Aid Society of Orange County, Inc.", "Web_URL":"http://www.legal-aid.com/", "Local_800":"(800) 834-5001", "Serv_Area_ID":"CA-19"}
-,{"R_Legalname":"Nevada Legal Services, Inc.", "Web_URL":"http://www.nlslaw.net/", "Local_800":"(866) 432-0404", "Serv_Area_ID":"NV-1"}
-,{"R_Legalname":"Alaska Legal Services Corporation", "Web_URL":"http://www.alsc-law.org/", "Local_800":"(800) 478-5401", "Serv_Area_ID":"AK-1"}
-,{"R_Legalname":"Legal Aid Society of Hawaii", "Web_URL":"http://www.legalaidhawaii.org/", "Local_800":"(800) 499-4302", "Serv_Area_ID":"HI-1"}
-,{"R_Legalname":"Idaho Legal Aid Services, Inc.", "Web_URL":"http://www.idaholegalaid.org", "Local_800":"(208) 345-0106", "Serv_Area_ID":"ID-1"}
-,{"R_Legalname":"Montana Legal Services Association", "Web_URL":"http://www.mtlsa.org", "Local_800":"(800) 666-6124", "Serv_Area_ID":"MT-1"}
-,{"R_Legalname":"Legal Aid Services of Oregon", "Web_URL":"http://www.lasoregon.org", "Local_800":"(503) 224-4094", "Serv_Area_ID":"OR-6"}
-,{"R_Legalname":"Northwest Justice Project", "Web_URL":"http://www.nwjustice.org/", "Local_800":"(888) 201-1014", "Serv_Area_ID":"WA-1"}
-,{"R_Legalname":"Legal Aid of Wyoming, Inc.", "Web_URL":"http://www.lawyoming.org", "Local_800":"", "Serv_Area_ID":"WY-4"}
-,{"R_Legalname":"Micronesian Legal Services, Inc.", "Web_URL":"", "Local_800":"(670) 234-6243", "Serv_Area_ID":"MP-1"}
-,{"R_Legalname":"Guam Legal Services Corporation", "Web_URL":"http://www.lawhelp.org/GU/StateAboutUs.cfm/", "Local_800":"(671) 477-9811", "Serv_Area_ID":"GU-1"}
+{"R_Legalname":"Statewide Legal Services of Connecticut, Inc.", "Web_URL":"http://www.slsct.org/Home/PublicWeb", "Local_800":"(800) 453-3320", "Phone":"(860) 344-8096", "Serv_Area_ID":"CT-1"}
+,{"R_Legalname":"Pine Tree Legal Assistance, Inc.", "Web_URL":"http://www.ptla.org/index.html", "Local_800":"(207) 774-8211", "Phone":"(207) 774-4753", "Serv_Area_ID":"ME-1"}
+,{"R_Legalname":"Volunteer Lawyers Project of the Boston Bar Association", "Web_URL":"http://www.vlpnet.org/", "Local_800":"(617) 423-0648", "Phone":"(617) 423-0648", "Serv_Area_ID":"MA-11"}
+,{"R_Legalname":"South Coastal Counties Legal Services", "Web_URL":"http://www.ncla.net/", "Local_800":"(800) 244-9023", "Phone":"(508) 979-7160", "Serv_Area_ID":"MA-12"}
+,{"R_Legalname":"Merrimack Valley Legal Services, Inc.", "Web_URL":"http://www.mvlegal.org/", "Local_800":"(978) 458-1465", "Phone":"(978) 458-1465", "Serv_Area_ID":"MA-4"}
+,{"R_Legalname":"Community Legal Aid, Inc.", "Web_URL":"http://www.communitylegal.org", "Local_800":"800-649-3718", "Phone":"508-752-3718", "Serv_Area_ID":"MA-10"}
+,{"R_Legalname":"Legal Advice & Referral Center, Inc.", "Web_URL":"http://www.nhlegalaid.org/LARC", "Local_800":"(800) 639-5290", "Phone":"(603) 224-5723", "Serv_Area_ID":"NH-1"}
+,{"R_Legalname":"Rhode Island Legal Services, Inc.", "Web_URL":"http://www.rils.org/", "Local_800":"(800) 662-5034", "Phone":"(401) 274-2652", "Serv_Area_ID":"RI-1"}
+,{"R_Legalname":"Legal Services Law Line of Vermont, Inc.", "Web_URL":"http://www.vtlegalaid.org/", "Local_800":"(800) 639-8857", "Phone":"(802) 863-7153", "Serv_Area_ID":"VT-1"}
+,{"R_Legalname":"Legal Aid Society of Northeastern New York, Inc.", "Web_URL":"http://www.lasnny.org/", "Local_800":"(800) 462-2922", "Phone":"(518) 462-6765", "Serv_Area_ID":"NY-21"}
+,{"R_Legalname":"Neighborhood Legal Services, Inc.", "Web_URL":"http://www.nls.org/", "Local_800":"(716) 847-0650", "Phone":"(716) 847-0650", "Serv_Area_ID":"NY-24"}
+,{"R_Legalname":"Nassau/Suffolk Law Services Committee, Inc.", "Web_URL":"http://www.nslawservices.org/", "Local_800":"(516) 292-8100", "Phone":"(516) 292-8100", "Serv_Area_ID":"NY-7"}
+,{"R_Legalname":"Legal Services NYC", "Web_URL":"http://www.legalservicesnyc.org", "Local_800":"", "Phone":"(212) 431-7200", "Serv_Area_ID":"NY-9"}
+,{"R_Legalname":"Legal Assistance of Western New York, Inc.", "Web_URL":"http://www.lawny.org", "Local_800":"(585) 325-2520", "Phone":"(315) 781-1465", "Serv_Area_ID":"NY-23"}
+,{"R_Legalname":"Legal Aid Society of Mid-New York, Inc.", "Web_URL":"http://www.lasmny.org/", "Local_800":"(877) 777-6152", "Phone":"(315) 793-7000", "Serv_Area_ID":"NY-22"}
+,{"R_Legalname":"Legal Services of the Hudson Valley", "Web_URL":"http://www.lshv.org/", "Local_800":"(914) 949-1305", "Phone":"(914) 949-1305", "Serv_Area_ID":"NY-20"}
+,{"R_Legalname":"Puerto Rico Legal Services, Inc.", "Web_URL":"http://www.slpr.org", "Local_800":"(800) 981-5342", "Phone":"(787) 728-8686", "Serv_Area_ID":"PR-1"}
+,{"R_Legalname":"Community Law Office, Inc.", "Web_URL":"http://oficinalegaldelacomunidad.org/", "Local_800":"(787) 751-1600", "Phone":"(787) 751-1600", "Serv_Area_ID":"PR-2"}
+,{"R_Legalname":"Legal Services of the Virgin Islands, Inc.", "Web_URL":"http://www.legalservicesvi.org", "Local_800":"(340) 718-2626", "Phone":"(340) 718-2626", "Serv_Area_ID":"VI-1"}
+,{"R_Legalname":"Legal Services Corporation of Delaware, Inc.", "Web_URL":"http://www.lscd.com", "Local_800":"(302) 575-0408", "Phone":"(302) 575-0408", "Serv_Area_ID":"DE-1"}
+,{"R_Legalname":"Neighborhood Legal Services Program of the District of Columbia", "Web_URL":"http://www.nlsp.org/", "Local_800":"(202) 269-5100", "Phone":"(202) 269-5100", "Serv_Area_ID":"DC-1"}
+,{"R_Legalname":"Legal Aid Bureau, Inc.", "Web_URL":"http://www.mdlab.org/", "Local_800":"(410) 539-5340", "Phone":"(410) 951-7680", "Serv_Area_ID":"MD-1"}
+,{"R_Legalname":"Legal Services of Northwest Jersey", "Web_URL":"http://www.lsnj.org/lsnwj/index.htm", "Local_800":"(908) 475-2010", "Phone":"(908) 231-0840", "Serv_Area_ID":"NJ-15"}
+,{"R_Legalname":"South Jersey Legal Services, Inc.", "Web_URL":"http://www.lsnj.org/sjls", "Local_800":"(856) 964-2010", "Phone":"(856) 964-2010", "Serv_Area_ID":"NJ-16"}
+,{"R_Legalname":"Northeast New Jersey Legal Services Corporation", "Web_URL":"http://www.lsnj.org/directory.htm", "Local_800":"(201) 792-6363", "Phone":"(201) 792-6363", "Serv_Area_ID":"NJ-18"}
+,{"R_Legalname":"Essex-Newark Legal Services Project, Inc.", "Web_URL":"http://www.lsnj.org/directory.htm", "Local_800":"(973) 624-4500", "Phone":"(973) 624-4500", "Serv_Area_ID":"NJ-8"}
+,{"R_Legalname":"Ocean-Monmouth Legal Services, Inc.", "Web_URL":"http://www.lsnj.org/omls/index.htm", "Local_800":"(732) 341-2727", "Phone":"(732) 866-0020", "Serv_Area_ID":"NJ-12"}
+,{"R_Legalname":"Central Jersey Legal Services, Inc.", "Web_URL":"http://www.lsnj.org/cjls/index.htm", "Local_800":"(732) 249-7600", "Phone":"(732) 249-7600", "Serv_Area_ID":"NJ-17"}
+,{"R_Legalname":"Philadelphia Legal Assistance Center", "Web_URL":"http://www.philalegal.org/", "Local_800":"(215) 981-3800", "Phone":"(215) 981-3808", "Serv_Area_ID":"PA-1"}
+,{"R_Legalname":"Laurel Legal Services, Inc.", "Web_URL":"http://www.palegalservices.org/finder/laurel_legal_services.htm", "Local_800":"(800) 253-9558", "Phone":"(724) 836-2211", "Serv_Area_ID":"PA-5"}
+,{"R_Legalname":"MidPenn Legal Services, Inc.", "Web_URL":"http://midpenn.org/", "Local_800":"(717) 232-0581", "Phone":"(717) 234-0492", "Serv_Area_ID":"PA-25"}
+,{"R_Legalname":"Neighborhood Legal Services Association", "Web_URL":"http://www.nlsa.us/", "Local_800":"(866) 761-6572", "Phone":"(412) 255-6700", "Serv_Area_ID":"PA-8"}
+,{"R_Legalname":"North Penn Legal Services, Inc.", "Web_URL":"http://www.northpennlegal.org/", "Local_800":"(800) 982-4387", "Phone":"(610) 317-5308", "Serv_Area_ID":"PA-24"}
+,{"R_Legalname":"Southwestern Pennsylvania Legal Services, Inc.", "Web_URL":"http://www.palegalservices.org/finder/southwestern_pa_legal_aid.htm", "Local_800":"(800) 846-0871", "Phone":"(724) 225-6170", "Serv_Area_ID":"PA-11"}
+,{"R_Legalname":"Northwestern Legal Services", "Web_URL":"http://www.nwls.org/", "Local_800":"(800) 665-6957", "Phone":"(814) 452-6949", "Serv_Area_ID":"PA-26"}
+,{"R_Legalname":"Legal Aid of Southeastern Pennsylvania", "Web_URL":"http://www.lasp.org", "Local_800":"(610) 275-5400", "Phone":"(610) 275-5400", "Serv_Area_ID":"PA-23"}
+,{"R_Legalname":"Legal Services of South Central Michigan", "Web_URL":"http://www.lsscm.org/", "Local_800":"(734) 665-6181", "Phone":"(734) 665-6181", "Serv_Area_ID":"MI-12"}
+,{"R_Legalname":"Legal Services of Eastern Michigan", "Web_URL":"http://www.lsem-mi.org/", "Local_800":"(800) 339-9513", "Phone":"(810) 234-2621", "Serv_Area_ID":"MI-14"}
+,{"R_Legalname":"Legal Services of Northern Michigan, Inc.", "Web_URL":"http://www.lsnm.org/", "Local_800":"(888) 645-9993", "Phone":"(989) 705-1067", "Serv_Area_ID":"MI-9"}
+,{"R_Legalname":"Legal Aid of Western Michigan", "Web_URL":"http://www.michiganlegalaid.org/", "Local_800":"(800) 442-2777", "Phone":"(616) 774-0672", "Serv_Area_ID":"MI-15"}
+,{"R_Legalname":"Legal Aid and Defender Association, Inc.", "Web_URL":"http://www.ladadetroit.org/", "Local_800":"(877) 964-4700", "Phone":"(313) 967-5555", "Serv_Area_ID":"MI-13"}
+,{"R_Legalname":"Community Legal Aid Services, Inc.", "Web_URL":"http://www.communitylegalaid.org/", "Local_800":"(866) 584-2350", "Phone":"(330) 535-4191", "Serv_Area_ID":"OH-20"}
+,{"R_Legalname":"Legal Aid Society of Greater Cincinnati", "Web_URL":"http://www.lascinti.org/", "Local_800":"(800) 582-2682", "Phone":"(513) 241-9400", "Serv_Area_ID":"OH-18"}
+,{"R_Legalname":"The Legal Aid Society of Cleveland", "Web_URL":"http://www.lasclev.org/", "Local_800":"", "Phone":"(216) 687-1900", "Serv_Area_ID":"OH-21"}
+,{"R_Legalname":"Ohio State Legal Services", "Web_URL":"http://www.ohiolegalservices.org/OSLSA/PublicWeb", "Local_800":"(800) 589-5888", "Phone":"(614) 221-7201", "Serv_Area_ID":"OH-17"}
+,{"R_Legalname":"Ohio State Legal Services", "Web_URL":"http://www.ohiolegalservices.org/OSLSA/PublicWeb", "Local_800":"(800) 589-5888", "Phone":"(614) 221-7201", "Serv_Area_ID":"OH-5"}
+,{"R_Legalname":"Legal Aid of Western Ohio, Inc.", "Web_URL":"http://www.lawolaw.org", "Local_800":"(877) 894-4599", "Phone":"(419) 724-0030", "Serv_Area_ID":"OH-23"}
+,{"R_Legalname":"Legal Services of Northern Virginia, Inc.", "Web_URL":"http://www.lsnv.org", "Local_800":"(866) 534-5243", "Phone":"(703) 778-6800", "Serv_Area_ID":"VA-20"}
+,{"R_Legalname":"Southwest Virginia Legal Aid Society, Inc.", "Web_URL":"http://www.svlas.org/", "Local_800":"(888) 201-2772", "Phone":"(276) 783-8300", "Serv_Area_ID":"VA-15"}
+,{"R_Legalname":"Legal Aid Society of Eastern Virginia", "Web_URL":"http://www.laseva.org/", "Local_800":"(888) 868-1072", "Phone":"(757) 627-5423", "Serv_Area_ID":"VA-16"}
+,{"R_Legalname":"Central Virginia Legal Aid Society, Inc.", "Web_URL":"http://www.cvlas.org/", "Local_800":"(800) 868-1012", "Phone":"(804) 648-1012", "Serv_Area_ID":"VA-18"}
+,{"R_Legalname":"Virginia Legal Aid Society, Inc.", "Web_URL":"http://www.vlas.org/", "Local_800":"(866) 534-5243", "Phone":"(434) 528-4722", "Serv_Area_ID":"VA-17"}
+,{"R_Legalname":"Blue Ridge Legal Services, Inc.", "Web_URL":"http://www.brls.org/", "Local_800":"(800) 237-0141", "Phone":"(540) 433-1830", "Serv_Area_ID":"VA-19"}
+,{"R_Legalname":"Legal Aid of West Virginia, Inc.", "Web_URL":"http://www.lawv.net", "Local_800":"(800) 642-8279", "Phone":"(304) 343-3013", "Serv_Area_ID":"WV-5"}
+,{"R_Legalname":"LAF (Legal Assistance Foundation of Metropolitan Chicago)", "Web_URL":"http://www.lafchicago.org/", "Local_800":"(312) 341-1070", "Phone":"(312) 341-1070", "Serv_Area_ID":"IL-6"}
+,{"R_Legalname":"Land of Lincoln Legal Assistance Foundation, Inc.", "Web_URL":"http://www.lollaf.org/", "Local_800":"(877) 342-7891", "Phone":"(618) 398-0574", "Serv_Area_ID":"IL-3"}
+,{"R_Legalname":"Prairie State Legal Services, Inc.", "Web_URL":"http://www.pslegal.org/", "Local_800":"(815) 965-2134", "Phone":"(815) 965-2134", "Serv_Area_ID":"IL-7"}
+,{"R_Legalname":"Indiana Legal Services, Inc.", "Web_URL":"http://www.indianalegalservices.org/", "Local_800":"(800) 869-0212", "Phone":"(317) 631-9410", "Serv_Area_ID":"IN-5"}
+,{"R_Legalname":"Iowa Legal Aid", "Web_URL":"http://www.iowalegalaid.org/ia/homepage.html", "Local_800":"(800) 532-1275", "Phone":"(515) 243-2151", "Serv_Area_ID":"IA-3"}
+,{"R_Legalname":"Kansas Legal Services, Inc.", "Web_URL":"http://www.kansaslegalservices.org/", "Local_800":"(800) 723-6953", "Phone":"(785) 233-2068", "Serv_Area_ID":"KS-1"}
+,{"R_Legalname":"Legal Aid Service of Northeastern Minnesota", "Web_URL":"http://www.lasnem.org/", "Local_800":"(855) 204-1697", "Phone":"(218) 623-8100", "Serv_Area_ID":"MN-1"}
+,{"R_Legalname":"Central Minnesota Legal Services, Inc.", "Web_URL":"http://www.centralmnlegal.org", "Local_800":"(612) 334-5970", "Phone":"(612) 332-8151", "Serv_Area_ID":"MN-6"}
+,{"R_Legalname":"Legal Services of Northwest Minnesota Corporation", "Web_URL":"http://www.lsnmlaw.org/", "Local_800":"(800) 450-8585", "Phone":"(218) 233-8585", "Serv_Area_ID":"MN-4"}
+,{"R_Legalname":"Southern Minnesota Regional Legal Services, Inc.", "Web_URL":"http://www.smrls.org/", "Local_800":"(651) 228-9823", "Phone":"(651) 228-9823", "Serv_Area_ID":"MN-5"}
+,{"R_Legalname":"Legal Aid of Western Missouri", "Web_URL":"http://www.lawmo.org/", "Local_800":"(816) 474-6750", "Phone":"(816) 474-6750", "Serv_Area_ID":"MO-3"}
+,{"R_Legalname":"Legal Services of Eastern Missouri, Inc.", "Web_URL":"http://www.lsem.org/", "Local_800":"(800) 444-0514", "Phone":"(314) 534-4200", "Serv_Area_ID":"MO-4"}
+,{"R_Legalname":"Mid-Missouri Legal Services Corporation", "Web_URL":"http://www.lsmo.org/Data/LegalServices/LegalService_129", "Local_800":"(800) 568-4931", "Phone":"(573) 442-0116", "Serv_Area_ID":"MO-5"}
+,{"R_Legalname":"Legal Services of Southern Missouri", "Web_URL":"http://www.lsosm.org", "Local_800":"(800) 444-4863", "Phone":"(417) 881-1397", "Serv_Area_ID":"MO-7"}
+,{"R_Legalname":"Legal Aid of Nebraska", "Web_URL":"http://www.legalaidofnebraska.com", "Local_800":"(877) 250-2016", "Phone":"(402) 348-1069", "Serv_Area_ID":"NE-4"}
+,{"R_Legalname":"Legal Services of North Dakota", "Web_URL":"http://www.legalassist.org/", "Local_800":"(800) 634-5263", "Phone":"(701) 222-2110", "Serv_Area_ID":"ND-3"}
+,{"R_Legalname":"East River Legal Services", "Web_URL":"http://www.erls.org", "Local_800":"(800) 952-3015", "Phone":"(605) 336-9230", "Serv_Area_ID":"SD-2"}
+,{"R_Legalname":"Legal Action of Wisconsin, Inc.", "Web_URL":"http://www.legalaction.org", "Local_800":"(414) 278-7722", "Phone":"(414) 278-7777", "Serv_Area_ID":"WI-5"}
+,{"R_Legalname":"Wisconsin Judicare, Inc.", "Web_URL":"http://www.judicare.org/", "Local_800":"(800) 472-1638", "Phone":"(715) 842-1681", "Serv_Area_ID":"WI-2"}
+,{"R_Legalname":"Legal Services Alabama, Inc.", "Web_URL":"http://www.legalservicesalabama.org/", "Local_800":"(866) 456-4995", "Phone":"(334) 264-1868", "Serv_Area_ID":"AL-4"}
+,{"R_Legalname":"Legal Aid of Arkansas, Inc.", "Web_URL":"http://www.arlegalservices.org/", "Local_800":"(800) 952-9243", "Phone":"(870) 972-9224", "Serv_Area_ID":"AR-6"}
+,{"R_Legalname":"Center for Arkansas Legal Services", "Web_URL":"http://www.arlegalservices.org/", "Local_800":"(800) 950-5817", "Phone":"(501) 376-3423", "Serv_Area_ID":"AR-7"}
+,{"R_Legalname":"Community Legal Services of Mid-Florida, Inc.", "Web_URL":"http://www.clsmf.org/", "Local_800":"(386) 255-6573", "Phone":"(386) 255-6573", "Serv_Area_ID":"FL-15"}
+,{"R_Legalname":"Florida Rural Legal Services, Inc.", "Web_URL":"http://www.frls.org/", "Local_800":"(800) 277-7680", "Phone":"(239) 334-4554", "Serv_Area_ID":"FL-17"}
+,{"R_Legalname":"Legal Services of Greater Miami, Inc.", "Web_URL":"http://www.lsgmi.org/", "Local_800":"(305) 576-0080", "Phone":"(305) 438-2501", "Serv_Area_ID":"FL-5"}
+,{"R_Legalname":"Legal Services of North Florida, Inc.", "Web_URL":"http://www.lsnf.org/", "Local_800":"(850) 701-3308", "Phone":"(850) 385-9007", "Serv_Area_ID":"FL-13"}
+,{"R_Legalname":"Bay Area Legal Services, Inc.", "Web_URL":"http://www.bals.org/", "Local_800":"(813) 232-1343", "Phone":"(813) 232-1343", "Serv_Area_ID":"FL-16"}
+,{"R_Legalname":"Three Rivers Legal Services, Inc.", "Web_URL":"http://www.trls.org/", "Local_800":"(352) 372-0519", "Phone":"(352) 372-0519", "Serv_Area_ID":"FL-14"}
+,{"R_Legalname":"Coast to Coast Legal Aid of South Florida,  Inc.", "Web_URL":"http://www.coasttocoastlegalaid.org", "Local_800":"", "Phone":"(954) 736-2400", "Serv_Area_ID":"FL-18"}
+,{"R_Legalname":"Atlanta Legal Aid Society, Inc.", "Web_URL":"http://www.atlantalegalaid.org/", "Local_800":"(404) 524-5811", "Phone":"(404) 524-5811", "Serv_Area_ID":"GA-1"}
+,{"R_Legalname":"Georgia Legal Services Program", "Web_URL":"http://www.glsp.org/", "Local_800":"(800) 498-9469", "Phone":"(404) 206-5175", "Serv_Area_ID":"GA-2"}
+,{"R_Legalname":"Legal Aid of the Bluegrass", "Web_URL":"http://www.lablaw.org", "Local_800":"(800) 888-8189", "Phone":"(859) 431-8200", "Serv_Area_ID":"KY-10"}
+,{"R_Legalname":"Legal Aid Society", "Web_URL":"http://www.laslou.org/", "Local_800":"(800) 292-1862", "Phone":"(502) 584-1254", "Serv_Area_ID":"KY-2"}
+,{"R_Legalname":"Appalachian Research and Defense Fund of Kentucky", "Web_URL":"http://www.ardfky.org/", "Local_800":"(800) 556-3876", "Phone":"(606) 886-9876", "Serv_Area_ID":"KY-5"}
+,{"R_Legalname":"Kentucky Legal Aid", "Web_URL":"http://www.klaid.org/", "Local_800":"(866) 452-9243", "Phone":"(270) 782-1924", "Serv_Area_ID":"KY-9"}
+,{"R_Legalname":"Acadiana Legal Service Corporation", "Web_URL":"http://www.la-law.org/", "Local_800":"(800) 256-1175", "Phone":"(337) 237-4320", "Serv_Area_ID":"LA-10"}
+,{"R_Legalname":"Legal Services of North Louisiana, Inc.", "Web_URL":"http://www.lsnl.org/", "Local_800":"(800) 826-9265", "Phone":"(318) 222-7186", "Serv_Area_ID":"LA-11"}
+,{"R_Legalname":"Southeast Louisiana Legal Services Corporation", "Web_URL":"http://www.slls.org", "Local_800":"(800) 349-0886", "Phone":"(504) 529-1000", "Serv_Area_ID":"LA-1"}
+,{"R_Legalname":"Southeast Louisiana Legal Services Corporation", "Web_URL":"http://www.slls.org", "Local_800":"(800) 349-0886", "Phone":"(504) 529-1000", "Serv_Area_ID":"LA-12"}
+,{"R_Legalname":"North Mississippi Rural Legal Services, Inc.", "Web_URL":"http://www.nmrls.com/", "Local_800":"(800) 898-8731", "Phone":"(662) 234-8731", "Serv_Area_ID":"MS-9"}
+,{"R_Legalname":"Mississippi Center for Legal Services", "Web_URL":"http://www.mslegalservices.org/MS/index.cfm", "Local_800":"(601) 545-2950", "Phone":"(601) 545-2950", "Serv_Area_ID":"MS-10"}
+,{"R_Legalname":"Legal Aid of North Carolina, Inc.", "Web_URL":"http://www.legalaidnc.org/", "Local_800":"(866) 219-5262", "Phone":"(919) 856-2130", "Serv_Area_ID":"NC-5"}
+,{"R_Legalname":"South Carolina  Legal Services, Inc.", "Web_URL":"http://www.sclegal.org/", "Local_800":"(888) 346-5592", "Phone":"(803) 744-4179", "Serv_Area_ID":"SC-8"}
+,{"R_Legalname":"Legal Aid of East Tennessee", "Web_URL":"http://www.laet.org/", "Local_800":"(865) 637-0484", "Phone":"(865) 637-0484", "Serv_Area_ID":"TN-9"}
+,{"R_Legalname":"Memphis Area Legal Services, Inc.", "Web_URL":"http://www.malsi.org/", "Local_800":"(901) 523-8822", "Phone":"(901) 523-8822", "Serv_Area_ID":"TN-4"}
+,{"R_Legalname":"Legal Aid Society of Middle Tennessee and the Cumberlands", "Web_URL":"http://www.las.org/", "Local_800":"", "Phone":"(800) 238-1443", "Serv_Area_ID":"TN-10"}
+,{"R_Legalname":"West Tennessee Legal Services, Inc.", "Web_URL":"http://www.wtls.org/", "Local_800":"(800) 372-8346", "Phone":"(731) 426-1311", "Serv_Area_ID":"TN-7"}
+,{"R_Legalname":"Community Legal Services, Inc.", "Web_URL":"http://www.clsaz.org", "Local_800":"(800) 852-9075", "Phone":"(602) 258-3434", "Serv_Area_ID":"AZ-3"}
+,{"R_Legalname":"Southern Arizona Legal Aid, Inc.", "Web_URL":"http://www.sazlegalaid.org/", "Local_800":"(520) 623-9461", "Phone":"(520) 623-9465", "Serv_Area_ID":"AZ-5"}
+,{"R_Legalname":"DNA-Peoples Legal Services, Inc.", "Web_URL":"http://www.dnalegalservices.org", "Local_800":"(800) 789-7287", "Phone":"(928) 871-4151", "Serv_Area_ID":"AZ-2"}
+,{"R_Legalname":"DNA-Peoples Legal Services, Inc.", "Web_URL":"http://www.dnalegalservices.org", "Local_800":"(800) 789-7287", "Phone":"(928) 871-4151", "Serv_Area_ID":"NM-1"}
+,{"R_Legalname":"California Indian Legal Services, Inc.", "Web_URL":"http://www.calindian.org/", "Local_800":"(800) 743-8941", "Phone":"(760) 746-8941", "Serv_Area_ID":"CA-1"}
+,{"R_Legalname":"Colorado Legal Services", "Web_URL":"http://www.coloradolegalservices.org/co/homepage.html", "Local_800":"(303) 837-1321", "Phone":"(303) 866-9399", "Serv_Area_ID":"CO-6"}
+,{"R_Legalname":"New Mexico Legal Aid", "Web_URL":"http://www.nmlegalaid.org/", "Local_800":"(505) 243-7871", "Phone":"(505) 243-7871", "Serv_Area_ID":"NM-5"}
+,{"R_Legalname":"Legal Aid Services of Oklahoma, Inc.", "Web_URL":"http://www.legalaidok.org/", "Local_800":"(800) 421-1641", "Phone":"(405) 557-0020", "Serv_Area_ID":"OK-3"}
+,{"R_Legalname":"Dakota Plains Legal Services, Inc.", "Web_URL":"http://www.helpsouthdakota.com/homeDPLS", "Local_800":"(800) 658-2297", "Phone":"(605) 856-4444", "Serv_Area_ID":"SD-4"}
+,{"R_Legalname":"Legal Aid of NorthWest Texas", "Web_URL":"http://www.lanwt.org/", "Local_800":"(800) 955-3959", "Phone":"(817) 649-4740", "Serv_Area_ID":"TX-14"}
+,{"R_Legalname":"Lone Star Legal Aid", "Web_URL":"http://www.lonestarlegal.org/", "Local_800":"(800) 354-1889", "Phone":"(713) 652-0077", "Serv_Area_ID":"TX-13"}
+,{"R_Legalname":"Texas RioGrande Legal Aid, Inc.", "Web_URL":"http://www.trla.org/", "Local_800":"(888) 988-9996", "Phone":"(956) 447-4800", "Serv_Area_ID":"TX-15"}
+,{"R_Legalname":"Utah Legal Services, Inc.", "Web_URL":"http://www.utahlegalservices.org", "Local_800":"(800) 662-4245", "Phone":"(801) 924-3381", "Serv_Area_ID":"UT-1"}
+,{"R_Legalname":"Greater Bakersfield Legal Assistance, Inc.", "Web_URL":"http://gbla.org/ez.php?Page=3226", "Local_800":"(805) 325-5943", "Phone":"(661) 334-4660", "Serv_Area_ID":"CA-2"}
+,{"R_Legalname":"Central California Legal Services", "Web_URL":"http://www.centralcallegal.org/", "Local_800":"(800) 675-8001", "Phone":"(559) 570-1200", "Serv_Area_ID":"CA-26"}
+,{"R_Legalname":"Legal Aid Foundation of Los Angeles", "Web_URL":"http://www.lafla.org/", "Local_800":"(800) 399-4529", "Phone":"(323) 801-7906", "Serv_Area_ID":"CA-29"}
+,{"R_Legalname":"Neighborhood Legal Services of Los Angeles County", "Web_URL":"http://www.nls-la.org/", "Local_800":"(818) 896-5211", "Phone":"(818) 834-7590", "Serv_Area_ID":"CA-30"}
+,{"R_Legalname":"Inland Counties Legal Services, Inc.", "Web_URL":"http://www.inlandlegal.org/", "Local_800":"(888) 245-4257", "Phone":"(951) 368-2555", "Serv_Area_ID":"CA-12"}
+,{"R_Legalname":"Legal Services of Northern California, Inc.", "Web_URL":"http://www.lsnc.net/", "Local_800":"(916) 551-2150", "Phone":"(916) 551-2150", "Serv_Area_ID":"CA-27"}
+,{"R_Legalname":"Legal Aid Society of San Diego, Inc.", "Web_URL":"http://www.lassd.org/", "Local_800":"(877) 534-2524", "Phone":"(619) 471-2620", "Serv_Area_ID":"CA-14"}
+,{"R_Legalname":"California Rural Legal Assistance, Inc.", "Web_URL":"http://www.crla.org/", "Local_800":"(415) 777-2752", "Phone":"(415) 777-2752", "Serv_Area_ID":"CA-31"}
+,{"R_Legalname":"Bay Area Legal Aid", "Web_URL":"http://www.baylegal.org/", "Local_800":"(510) 663-4744", "Phone":"(510) 663-4755", "Serv_Area_ID":"CA-28"}
+,{"R_Legalname":"Legal Aid Society of Orange County, Inc.", "Web_URL":"http://www.legal-aid.com/", "Local_800":"(800) 834-5001", "Phone":"(714) 571-5200", "Serv_Area_ID":"CA-19"}
+,{"R_Legalname":"Nevada Legal Services, Inc.", "Web_URL":"http://www.nlslaw.net/", "Local_800":"(866) 432-0404", "Phone":"(702) 386-0404", "Serv_Area_ID":"NV-1"}
+,{"R_Legalname":"Alaska Legal Services Corporation", "Web_URL":"http://www.alsc-law.org/", "Local_800":"(800) 478-5401", "Phone":"(907) 452-5181", "Serv_Area_ID":"AK-1"}
+,{"R_Legalname":"Legal Aid Society of Hawaii", "Web_URL":"http://www.legalaidhawaii.org/", "Local_800":"(800) 499-4302", "Phone":"(808) 536-4302", "Serv_Area_ID":"HI-1"}
+,{"R_Legalname":"Idaho Legal Aid Services, Inc.", "Web_URL":"http://www.idaholegalaid.org", "Local_800":"(208) 345-0106", "Phone":"(208) 336-8980", "Serv_Area_ID":"ID-1"}
+,{"R_Legalname":"Montana Legal Services Association", "Web_URL":"http://www.mtlsa.org", "Local_800":"(800) 666-6124", "Phone":"(406) 442-9830", "Serv_Area_ID":"MT-1"}
+,{"R_Legalname":"Legal Aid Services of Oregon", "Web_URL":"http://www.lasoregon.org", "Local_800":"(503) 224-4094", "Phone":"(503) 224-4094", "Serv_Area_ID":"OR-6"}
+,{"R_Legalname":"Northwest Justice Project", "Web_URL":"http://www.nwjustice.org/", "Local_800":"(888) 201-1014", "Phone":"(206) 464-1519", "Serv_Area_ID":"WA-1"}
+,{"R_Legalname":"Legal Aid of Wyoming, Inc.", "Web_URL":"http://www.lawyoming.org", "Local_800":"", "Phone":"(877) 432-9955", "Serv_Area_ID":"WY-4"}
+,{"R_Legalname":"Micronesian Legal Services, Inc.", "Web_URL":"", "Local_800":"(670) 234-6243", "Phone":"(670) 322-6472", "Serv_Area_ID":"MP-1"}
+,{"R_Legalname":"Guam Legal Services Corporation", "Web_URL":"http://www.lawhelp.org/GU/StateAboutUs.cfm/", "Local_800":"(671) 477-9811", "Phone":"(671) 477-9811", "Serv_Area_ID":"GU-1"}
 ]

@@ -17,7 +17,7 @@
         <div class='col8 margin2 pad2'>
             <h1>LSC Locator</h1>
             <form id='fm' class='center pad2'>
-                <input id='address' type='text'  />
+                <input id='address' type='text' value='<?php echo $_POST['address']?>' />
                 <input type='submit' id='search' value='search' />
             </form>
             <table id='info'><tr><td></td></tr></table>
